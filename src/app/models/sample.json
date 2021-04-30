@@ -1,0 +1,1813 @@
+{
+    "centers": [
+        {
+            "center_id": 519615,
+            "name": "Kadusonnappanahalli PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru East",
+            "pincode": 562149,
+            "lat": 13,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "16:30:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "39ed9d7a-6832-4530-8e4e-3cf1f521d3af",
+                    "date": "01-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-04:30PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249080,
+            "name": "Mahanthalingapura PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 560083,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "baa6049d-535a-4e4e-abac-eca53aa85ab7",
+                    "date": "01-05-2021",
+                    "available_capacity": 36,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 656719,
+            "name": "Indalwadi PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 562106,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "2e9dbbe7-b497-469e-b47a-670c68cea9dd",
+                    "date": "01-05-2021",
+                    "available_capacity": 48,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "63c367c6-0d77-4041-872f-fdff21322232",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "3a442d43-98fa-4f9f-af59-67edf1ce429c",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249067,
+            "name": "Haragadde PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 560105,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "3dc9f02d-b12d-480e-a488-144101a3cb4c",
+                    "date": "01-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "27472696-5b2e-45d1-b39c-5686747aa369",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "ddb4d724-13c7-438c-96d8-bce84c80b7fb",
+                    "date": "03-05-2021",
+                    "available_capacity": 46,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 590616,
+            "name": "Yelahanka TH.",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 562157,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "695428da-3cdd-4410-8419-c7bbf9888808",
+                    "date": "01-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "f884e261-cc9d-4e9e-bb7c-98ff11f619f2",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "6a796036-3fa2-4ad1-9d3a-c639f04bd5a5",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249054,
+            "name": "Gopalpura PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 562123,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "424c647a-bf28-482d-be50-712d4dc620b8",
+                    "date": "01-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "64a08e81-a64d-4ffe-9013-5a473b429e14",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "247c9c01-340f-4076-bfe0-65e1b07105ff",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "32b05d33-5557-4beb-b9c5-09f1a8220df4",
+                    "date": "04-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249085,
+            "name": "Sarjapura PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 562125,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "843625e7-6abd-47b7-adb3-efb04cd7ab4b",
+                    "date": "01-05-2021",
+                    "available_capacity": 9,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "dad3e951-6d3e-4397-bd9a-1e896a27492d",
+                    "date": "02-05-2021",
+                    "available_capacity": 42,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "f6087979-37eb-4af8-8bb4-6ca1c410ba6d",
+                    "date": "03-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 573111,
+            "name": "Makali PHC 1",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 562162,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "745c0f52-93a6-4253-b50b-e1c28a927af6",
+                    "date": "01-05-2021",
+                    "available_capacity": 44,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "4e1cae3a-68b4-4e60-afe5-38c89a2cff05",
+                    "date": "02-05-2021",
+                    "available_capacity": 48,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "e4cbb3ee-2296-47ea-8caf-2f05f273546d",
+                    "date": "03-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249051,
+            "name": "Chikkabanavara PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 560090,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "269f22f7-f01c-44e4-8cd7-decc0abdc1c5",
+                    "date": "01-05-2021",
+                    "available_capacity": 24,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "5b175fca-7227-4e48-850a-592761491cbf",
+                    "date": "02-05-2021",
+                    "available_capacity": 39,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "5354e643-1db2-48c8-9b95-91c01725c648",
+                    "date": "03-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "9046199b-5178-4b3d-b42b-9da53049b14f",
+                    "date": "04-05-2021",
+                    "available_capacity": 43,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249049,
+            "name": "Chandapura PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 560099,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1c0c48c9-5d25-4f14-8262-182bfc9c701f",
+                    "date": "01-05-2021",
+                    "available_capacity": 3,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "a275aa3b-5b7b-4eae-8bd2-f72120025077",
+                    "date": "02-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "d18f0edd-da59-491a-ac0e-9349c7307e7e",
+                    "date": "03-05-2021",
+                    "available_capacity": 43,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249086,
+            "name": "Sondekoppa PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 562130,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "378e8f11-f3f3-4e54-b6a5-1230dce24e03",
+                    "date": "01-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "79adf26a-2c2c-43ed-ad99-4a1563a8d2b3",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "fc4c072f-af49-4186-a353-08eae03d822f",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 586940,
+            "name": "DCHC Leprosy Hospital",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 560023,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "c91dbc11-6a6c-404a-8c1a-606c889ca281",
+                    "date": "01-05-2021",
+                    "available_capacity": 29,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249087,
+            "name": "Sonnenahalli PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 560089,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "c0780caa-666e-4af7-9043-12bf500ea7ab",
+                    "date": "01-05-2021",
+                    "available_capacity": 42,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "dfa0affb-4c1b-4a7b-9e04-6d5b00dc15d2",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "521ad705-d15c-4840-a290-b3fa9a5cbed0",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249052,
+            "name": "Chikkajala PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 562157,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "4cf9b30b-5e10-4e07-a30d-9b03b5c63cf0",
+                    "date": "01-05-2021",
+                    "available_capacity": 46,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "99980adb-8299-47da-9a47-92effbe6593e",
+                    "date": "02-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "14daae94-eb79-4f41-be0f-0c671bf7c8c8",
+                    "date": "03-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249078,
+            "name": "Kumbalgodu PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru South",
+            "pincode": 560074,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "6b399d8c-81f4-40bc-a1e3-8a9ad04f0fbf",
+                    "date": "01-05-2021",
+                    "available_capacity": 43,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "7f3be555-1208-4bfe-b3be-0d2d9da235a2",
+                    "date": "02-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "10abb905-d53b-44ab-a476-972540e3903c",
+                    "date": "03-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249074,
+            "name": "Kannalli PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 560112,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "0d8d953c-7853-4494-9b98-bc25f8579dd5",
+                    "date": "01-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "6657ca58-8945-4ee1-b02b-c329de6dc5d9",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "29b2e732-0c8f-4dbb-afb9-8005934153df",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249041,
+            "name": "Bagaluru PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 562149,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "aea22de3-22f3-4b88-94dd-ccfb4a6fd103",
+                    "date": "01-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "9fbe1f03-d23f-4c2e-8b88-f3fc7ce3e8e9",
+                    "date": "02-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "521044c1-b93f-4c26-ad92-9a97f9fad137",
+                    "date": "03-05-2021",
+                    "available_capacity": 48,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "03:00PM-05:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249072,
+            "name": "Kumbalagodu Gollahalli PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru South",
+            "pincode": 560074,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "d9a22ef0-b2ef-491b-9fc9-4c6e0b2af672",
+                    "date": "01-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "90021633-f8f4-4182-bb8c-61ed198a98c3",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "07d90f36-4c10-4d25-967f-fae92ede0ecb",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249040,
+            "name": "Avalahalli CHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru East",
+            "pincode": 560049,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "50a70d3a-e89c-40c9-9d5e-59b71ece1c31",
+                    "date": "01-05-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249096,
+            "name": "Sulikere PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru South",
+            "pincode": 560060,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "77e08351-d4cf-431b-89a6-0aa731da4b0b",
+                    "date": "01-05-2021",
+                    "available_capacity": 23,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "97aea351-d002-44f2-9c1a-cfef468bb041",
+                    "date": "02-05-2021",
+                    "available_capacity": 44,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "c4860857-26d9-4cd1-a08a-f0042ee2866c",
+                    "date": "03-05-2021",
+                    "available_capacity": 41,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249068,
+            "name": "Hebbagodi PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 560099,
+            "lat": 12,
+            "long": 77,
+            "from": "10:30:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "f6124a6b-0e21-403b-9187-fd5c77ba36d5",
+                    "date": "01-05-2021",
+                    "available_capacity": 4,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:30AM-11:30AM",
+                        "11:30AM-12:30PM",
+                        "12:30PM-01:30PM",
+                        "01:30PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249084,
+            "name": "Rajanukunte PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 560064,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "3ec440c1-f05b-4f00-97ed-68aba24cbd61",
+                    "date": "01-05-2021",
+                    "available_capacity": 33,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "ffbcc354-89e2-4e15-9e00-91f994cfd130",
+                    "date": "02-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "b3381a32-c92c-4b79-a809-577b11e043ac",
+                    "date": "03-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 631383,
+            "name": "Yelahanka TH COVAXIN",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 560064,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "659d5c6c-ca02-4390-a6cd-2e1fd54a7c9d",
+                    "date": "01-05-2021",
+                    "available_capacity": 2,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "a6ca48e2-12c5-4ba1-a9f1-5a2bd93b4c5c",
+                    "date": "03-05-2021",
+                    "available_capacity": 23,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249042,
+            "name": "Balluru PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 562107,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "dc8708be-9ce9-45bf-91a2-5f3d4b2c5bc5",
+                    "date": "01-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "acc66246-5cb1-4e4f-848c-3f9e558543f4",
+                    "date": "02-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "de785d77-1d85-418a-b94a-6254d77846d3",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249152,
+            "name": "Bettahalsuru PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 562157,
+            "lat": 13,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "95b0ade2-229d-4470-9ee2-d75c41d96f50",
+                    "date": "01-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "e1d14def-193b-4b7e-9cc1-a37989f432f1",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "a6017867-8232-4c76-8f12-2e27ce5ba154",
+                    "date": "03-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249079,
+            "name": "Machohalli PHC Valmiki Bhavana",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru North",
+            "pincode": 560091,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "8bad40a5-67f9-4ed5-bfe5-88bea5bbe9ab",
+                    "date": "01-05-2021",
+                    "available_capacity": 29,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "edb214cd-24da-40d6-9ee2-37f732abf946",
+                    "date": "02-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "4dc0b45d-45ee-418e-aa09-57df90fab16f",
+                    "date": "03-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249050,
+            "name": "Chandrappa Circle CHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru South",
+            "pincode": 562130,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "f95dd03d-398b-4a0d-a7ce-52d25dc1d790",
+                    "date": "01-05-2021",
+                    "available_capacity": 48,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "bd824f03-4ed0-4bcb-b812-e32760fef29a",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "96e2079b-b2bf-418e-bc1e-ac276b48188c",
+                    "date": "03-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249064,
+            "name": "Guddahatti PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 562107,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "525568fe-185c-46c7-9568-8dc6745b3ab0",
+                    "date": "01-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "c27fa4c9-2c4f-433f-8dd0-7823c71201e1",
+                    "date": "02-05-2021",
+                    "available_capacity": 48,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "2d539170-8e16-4ad2-b3bb-608cb299de8a",
+                    "date": "03-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 591585,
+            "name": "Anekal TH",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 562106,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "9e36e61f-c713-4704-b26e-4f40ed4ff594",
+                    "date": "01-05-2021",
+                    "available_capacity": 42,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249097,
+            "name": "Tavarekere PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru South",
+            "pincode": 562130,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1d9ef0b1-6d04-4c6d-8501-3ab15281375c",
+                    "date": "01-05-2021",
+                    "available_capacity": 37,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "e8a6750b-7463-4ec1-a37d-69e3aae9be75",
+                    "date": "02-05-2021",
+                    "available_capacity": 48,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "4da2f988-6b74-4d9c-875c-e1f463261b04",
+                    "date": "03-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249073,
+            "name": "Kaggalipura CHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru South",
+            "pincode": 560116,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "508c69f9-1345-49e8-a819-3753ee2cc4ec",
+                    "date": "01-05-2021",
+                    "available_capacity": 29,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "fb6f675e-49a8-438f-9a14-925b2a49934a",
+                    "date": "02-05-2021",
+                    "available_capacity": 44,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "11eadd3d-4523-4d3d-98b8-f0aae98da8b6",
+                    "date": "03-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249031,
+            "name": "Attibele PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 562107,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "032871b3-917e-417a-b19e-f38217369424",
+                    "date": "01-05-2021",
+                    "available_capacity": 34,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "09bd8060-231e-4dc9-b23e-8db0ac728f87",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "d744278e-8a98-45cd-9f6b-c5afcc3d814a",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249083,
+            "name": "Marasuru PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 562106,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1f7ab36e-57cd-4bec-ae80-491c4fe3393e",
+                    "date": "01-05-2021",
+                    "available_capacity": 38,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "31ff49f1-7220-46de-a4ba-8ef9ca11af8a",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "311e1c8a-4f71-4893-8f67-88e96591971e",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249071,
+            "name": "Jigani PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 560105,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "b49a00d4-652a-4baf-bc66-3809ceca2149",
+                    "date": "01-05-2021",
+                    "available_capacity": 28,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "706c1a6a-581b-4b23-9797-76da0b7f1a62",
+                    "date": "02-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "c1512fb1-acf5-42aa-8040-e3632814068d",
+                    "date": "03-05-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 631294,
+            "name": "ANEKAL TH COVAXIN",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 560106,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "026bb9a5-f1bd-4ae1-b182-85873e50dc0d",
+                    "date": "01-05-2021",
+                    "available_capacity": 20,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249053,
+            "name": "Dommasandra PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Anekal",
+            "pincode": 562125,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "504cd6a0-ee4e-4473-8b69-58a51b95fbe3",
+                    "date": "01-05-2021",
+                    "available_capacity": 20,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "897b3b06-529b-4c60-8390-c9b73bb5c1ed",
+                    "date": "02-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "e0f3cb1b-7c2a-4ca1-9ee7-4b7dd6c6ebdc",
+                    "date": "03-05-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249048,
+            "name": "Bolare PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru South",
+            "pincode": 560116,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "e0cd45cc-582b-4278-abde-7588b1616bf8",
+                    "date": "01-05-2021",
+                    "available_capacity": 48,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                },
+                {
+                    "session_id": "4afd8632-52d1-44ae-a5e1-1218d64ae707",
+                    "date": "02-05-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "d0896408-3aee-4779-9838-5dff895d884c",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        },
+        {
+            "center_id": 249065,
+            "name": "Gunjuru PHC",
+            "state_name": "Karnataka",
+            "district_name": "Bangalore Urban",
+            "block_name": "Bengaluru East",
+            "pincode": 560087,
+            "lat": 12,
+            "long": 77,
+            "from": "10:00:00",
+            "to": "13:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "3e837c9c-40bc-4ef5-9a9f-ff228b95ec6d",
+                    "date": "02-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-12:00PM",
+                        "12:00PM-01:00PM"
+                    ]
+                },
+                {
+                    "session_id": "ddb4a7f4-90fe-46aa-98e6-1bd13f50e6f5",
+                    "date": "03-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 45,
+                    "vaccine": "",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ]
+                }
+            ]
+        }
+    ]
+}
