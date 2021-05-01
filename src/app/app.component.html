@@ -1,22 +1,92 @@
-<mat-form-field>
-  <mat-label>Timer Frequency</mat-label>
-  <mat-select [disabled]="timerOn" [(ngModel)]="checkFreq">
-    <mat-option value="10">10s</mat-option>
-    <mat-option value="20">20s</mat-option>
-    <mat-option value="30">30s</mat-option>
-    <mat-option value="60">60s</mat-option>
-    <mat-option value="300">5min</mat-option>
-    <mat-option value="600">10min</mat-option>
-    <mat-option value="1800">30min</mat-option>
-    <mat-option value="3600">1Hr</mat-option>
-  </mat-select>
-</mat-form-field>
-<button mat-fab color="primary" (click)="startTimer()" *ngIf="!timerOn">
-  Start
-</button>
-<button mat-fab color="warn" (click)="stopTimer()" *ngIf="timerOn">Stop</button>
+<div class="main">
+  <div>
+    <h3 style="display: inline-block;">Vaccine Availability Tracker</h3>
+    <a routerLink="about" style="float: right;">About</a>
+  </div>
+  <div>
+    Search By 
+    <mat-button-toggle-group name="searchType" aria-label="Search Type" [(ngModel)]="searchType">
+      <mat-button-toggle value="pincode">Pincode</mat-button-toggle>
+      <mat-button-toggle value="district">District</mat-button-toggle>
+      <mat-button-toggle value="both" [disabled]="true">Both</mat-button-toggle>
+    </mat-button-toggle-group>
+  </div>
+  <div>
+    <div *ngIf="searchType == 'pincode' else districtSearch">
+      <mat-form-field class="example-full-width">
+        <mat-label>Pincode</mat-label>
+        <input matInput placeholder="Ex. 560076" [(ngModel)]="pincode" [disabled]="timerOn"/>
+      </mat-form-field>
+    </div>
+    <ng-template #districtSearch>
+      <mat-form-field>
+        <mat-label>State</mat-label>
+        <mat-select [disabled]="timerOn" [(ngModel)]="stateId" (ngModelChange)="getDistricts()">
+          <mat-option *ngFor="let state of stateList" [value]="state.state_id">
+            {{ state.state_name }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+      <mat-form-field>
+        <mat-label>District</mat-label>
+        <mat-select [disabled]="timerOn" [(ngModel)]="districtId">
+          <mat-option *ngFor="let district of districtList" [value]="district.district_id">
+            {{ district.district_name }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+    </ng-template>
+  </div>
+  <div>
+    <mat-form-field>
+      <mat-label>Choose a date</mat-label>
+      <input matInput [matDatepicker]="picker" [(ngModel)]="selectDate" [disabled]="timerOn"/>
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+    
+    <mat-form-field>
+      <mat-label>Timer Frequency</mat-label>
+      <mat-select [disabled]="timerOn" [(ngModel)]="checkFreq">
+        <mat-option value="10">10s</mat-option>
+        <mat-option value="20">20s</mat-option>
+        <mat-option value="30">30s</mat-option>
+        <mat-option value="60">60s</mat-option>
+        <mat-option value="300">5min</mat-option>
+        <mat-option value="600">10min</mat-option>
+        <mat-option value="1800">30min</mat-option>
+        <mat-option value="3600">1Hr</mat-option>
+      </mat-select>
+    </mat-form-field>
+    <button mat-fab color="primary" (click)="startTimer()" *ngIf="!timerOn">
+      Start
+    </button>
+    <button mat-fab color="warn" (click)="stopTimer()" *ngIf="timerOn">Stop</button>
+    <span *ngIf="lastUpdated">
+      Last Updated on {{lastUpdated}}
+    </span>
+  </div>
+  <div>
+    <div *ngIf="gridData1.length > 0">
+      <h3>from {{selectDate}} upto 7 days</h3>
+      <app-datagrid [columnsList]="columnList" [data]="gridData1"></app-datagrid>
+    </div>
+    <div *ngIf="gridData2.length > 0">
+      <h3>from {{w2}} upto 7 days</h3>
+      <app-datagrid [columnsList]="columnList" [data]="gridData2"></app-datagrid>
+    </div>
+    <div *ngIf="gridData3.length > 0">
+      <h3>from {{w3}} upto 7 days</h3>
+      <app-datagrid [columnsList]="columnList" [data]="gridData3"></app-datagrid>
+    </div>
+    <div *ngIf="gridData4.length > 0">
+      <h3>from {{w4}} upto 7 days</h3>
+      <app-datagrid [columnsList]="columnList" [data]="gridData4"></app-datagrid>
+    </div>
+  </div>
+  <router-outlet></router-outlet>
+  <audio #audioOption>
+    <source src="assets/sounds/swiftly-610.mp3" type="audio/mp3">
+  </audio>
+</div>
 
-{{ data | json }}
-<app-pinsearch></app-pinsearch>
-<app-districtsearch></app-districtsearch>
-<router-outlet></router-outlet>

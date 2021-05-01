@@ -1,1 +1,16 @@
-<p>districtsearch works!</p>
+<mat-form-field>
+    <mat-label>State</mat-label>
+    <mat-select [(ngModel)]="stateId" (ngModelChange)="getDistricts()">
+      <mat-option *ngFor="let state of stateList" [value]="state.state_id">
+        {{ state.state_name }}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>District</mat-label>
+    <mat-select [(ngModel)]="districtId">
+      <mat-option *ngFor="let district of districtList" [value]="district.district_id">
+        {{ district.district_name }}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>

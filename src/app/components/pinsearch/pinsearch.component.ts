@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./pinsearch.component.scss']
 })
 export class PinsearchComponent implements OnInit {
-
+  pincode;
   constructor() { }
 
   ngOnInit(): void {

@@ -6,10 +6,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./districtsearch.component.scss']
 })
 export class DistrictsearchComponent implements OnInit {
-
+  stateId;
+  districtId;
+  stateList;
+  districtList
   constructor() { }
 
   ngOnInit(): void {
   }
+
+  getDistricts(){}
 
 }
