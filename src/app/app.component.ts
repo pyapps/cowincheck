@@ -29,6 +29,7 @@ export class AppComponent implements OnInit {
   gridData2 = [];
   gridData3 = [];
   gridData4 = [];
+  disableSound = false;
   @ViewChild('audioOption') audioPlayerRef: ElementRef;
 
 
@@ -109,7 +110,10 @@ export class AppComponent implements OnInit {
     } else {
       this.searchByDistrict1();
     }
-    this.notifyUser();
+    if(!this.disableSound) {
+      this.notifyUser();
+    }
+    
     this.lastUpdated = new Date();
   }
 

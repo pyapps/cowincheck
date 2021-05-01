@@ -1,14 +1,17 @@
 <div class="main">
   <div>
     <h3 style="display: inline-block;">Vaccine Availability Tracker</h3>
-    <a routerLink="about" style="float: right;">About</a>
+    <div style="float: right;">
+      <mat-icon style="cursor: pointer;" (click)="disableSound=!disableSound" >{{disableSound?'volume_off':'volume_up'}}</mat-icon>      
+      <a routerLink="about" >About</a>
+    </div>    
   </div>
   <div>
     Search By 
-    <mat-button-toggle-group name="searchType" aria-label="Search Type" [(ngModel)]="searchType">
+    <mat-button-toggle-group appearance="legacy" name="searchType" aria-label="Search Type" [(ngModel)]="searchType" [disabled]="timerOn">
       <mat-button-toggle value="pincode">Pincode</mat-button-toggle>
       <mat-button-toggle value="district">District</mat-button-toggle>
-      <mat-button-toggle value="both" [disabled]="true">Both</mat-button-toggle>
+      <!-- <mat-button-toggle value="both" [disabled]="true">Both</mat-button-toggle> -->
     </mat-button-toggle-group>
   </div>
   <div>
