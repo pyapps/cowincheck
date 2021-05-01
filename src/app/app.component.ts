@@ -11,6 +11,16 @@ export class AppComponent implements OnInit {
   searchType = 'pincode';
   pincode = '560076';
   timeLeft: number = 60;
+  timerFreqList = [
+    {name:'10s', value:10},
+    {name:'20s', value:20},
+    {name:'30s', value:30},
+    {name:'60s', value:60},
+    {name:'5min', value:300},
+    {name:'10min', value:600},
+    {name:'30min', value:1800},
+    {name:'1hr', value:3600},
+  ]
   checkFreq = 10;
   interval;  
   timerOn = false;
@@ -29,6 +39,7 @@ export class AppComponent implements OnInit {
   gridData2 = [];
   gridData3 = [];
   gridData4 = [];
+  availableOnly = true;
   disableSound = false;
   @ViewChild('audioOption') audioPlayerRef: ElementRef;
 
@@ -54,6 +65,9 @@ export class AppComponent implements OnInit {
     let output = [];
     dataList.forEach(center => {      
       <Array<Object>>center['sessions'].forEach(session => {
+        if(this.availableOnly && session['available_capacity'] == 0){
+          return;
+        }
         let details = {};
         details['name'] = center['name'];
         details['pincode'] = center['pincode'];

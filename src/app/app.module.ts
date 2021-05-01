@@ -20,6 +20,7 @@ import {MatButtonToggleModule} from '@angular/material/button-toggle';
 import { DatagridComponent } from './components/datagrid/datagrid.component';
 import {MatPaginatorModule} from '@angular/material/paginator';
 import {MatIconModule} from '@angular/material/icon';
+import {MatCheckboxModule} from '@angular/material/checkbox';
 import {MatSortModule} from '@angular/material/sort';
 import { AboutComponent } from './components/about/about.component';
 
@@ -42,6 +43,7 @@ import { AboutComponent } from './components/about/about.component';
     MatButtonToggleModule,
     MatPaginatorModule,
     MatIconModule,
+    MatCheckboxModule,
     MatSortModule,
     ServiceWorkerModule.register('ngsw-worker.js', {
       enabled: environment.production,
