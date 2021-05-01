@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1619871144973,
+  "timestamp": 1619873485022,
   "index": "/cowincheck/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/cowincheck/favicon.ico",
         "/cowincheck/index.html",
-        "/cowincheck/main.3e9f23a71a093aa13d59.js",
+        "/cowincheck/main.015c9590ec14f3b891a5.js",
         "/cowincheck/manifest.webmanifest",
         "/cowincheck/polyfills.94daefd414b8355106ab.js",
         "/cowincheck/runtime.7b63b9fd40098a2e8207.js",
@@ -54,8 +54,8 @@
     "/cowincheck/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/cowincheck/assets/sounds/swiftly-610.mp3": "7eb949f6835b7015ee4bef7d8f36e4d3a04d4f48",
     "/cowincheck/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/cowincheck/index.html": "b82ab9aa7c75803de0810c1595d209457d196089",
-    "/cowincheck/main.3e9f23a71a093aa13d59.js": "dd7c7e3ee46b6d1853f8cfa27eba89c4bfb75aee",
+    "/cowincheck/index.html": "469efe2cc4b9c378139d3dd52149352ec2420e21",
+    "/cowincheck/main.015c9590ec14f3b891a5.js": "471a1c5801314f6b147f0e8944b9f180a7ccf563",
     "/cowincheck/manifest.webmanifest": "1b67f202672f59cb89b08c0f32699538f9dbf514",
     "/cowincheck/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/cowincheck/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",

@@ -1,9 +1,9 @@
 <div class="main">
   <div>
     <h3 style="display: inline-block;">Vaccine Availability Tracker</h3>
-    <div style="float: right;">
+    <div style="float: right;display: flex;">      
+      <a routerLink="about">About</a>
       <mat-icon style="cursor: pointer;" (click)="disableSound=!disableSound" >{{disableSound?'volume_off':'volume_up'}}</mat-icon>      
-      <a routerLink="about" >About</a>
     </div>    
   </div>
   <div>
